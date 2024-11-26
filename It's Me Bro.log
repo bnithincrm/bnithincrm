@@ -1,0 +1,22 @@
+20241124-22:05:19.673 000025EC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20241124-22:05:20.561 00003590 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20241124-22:05:22.943 00004FE4 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20241124-22:05:29.423 00005DF8 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20241124-22:05:42.056 00003590 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20241124-23:03:57.708 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20241125-08:52:19.014 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20241125-11:26:28.594 000048E8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20241125-11:26:28.661 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20241125-11:26:48.995 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20241125-11:27:04.612 00003090 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20241125-11:27:09.001 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20241125-11:27:29.054 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20241125-11:27:50.625 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20241125-11:29:12.277 00000680 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20241125-11:29:12.309 00004B64 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20241125-11:29:18.620 00003280 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20241125-12:28:13.941 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+20241126-07:30:33.067 00002D84 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20241126-07:30:33.413 00005A54 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20241126-07:30:35.530 000053B8 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
+20241126-07:30:55.862 00005A54 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
