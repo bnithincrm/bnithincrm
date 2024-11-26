@@ -1,22 +1,379 @@
-20241124-22:05:19.673 000025EC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
-20241124-22:05:20.561 00003590 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20241124-22:05:22.943 00004FE4 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
-20241124-22:05:29.423 00005DF8 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
-20241124-22:05:42.056 00003590 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
-20241124-23:03:57.708 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
-20241125-08:52:19.014 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
-20241125-11:26:28.594 000048E8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
-20241125-11:26:28.661 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20241125-11:26:48.995 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20241125-11:27:04.612 00003090 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
-20241125-11:27:09.001 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20241125-11:27:29.054 000052E0 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20241125-11:27:50.625 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
-20241125-11:29:12.277 00000680 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
-20241125-11:29:12.309 00004B64 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
-20241125-11:29:18.620 00003280 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
-20241125-12:28:13.941 000052E0 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
-20241126-07:30:33.067 00002D84 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
-20241126-07:30:33.413 00005A54 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20241126-07:30:35.530 000053B8 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|136.243.104.242:443,80,8080|136.243.18.122:443,80,8080|
-20241126-07:30:55.862 00005A54 - ERROR: Incorrect status code 404 from 'www.ammyy.com/admin_v3.9_20200220-182209/AA_v3.exe'
+Nithin Krishna
+ bnithinkr@gmail.com 
+4692976318 
+Dallas, USA 
+www.linkedin.com/in/nithinkrishnacrm 
+•
+ Over 8 years of Professional experience in Microsoft Dynamics CRM 4.0, Microsoft Dynamics CRM 2011,
+ Microsoft Dynamics 2013, Microsoft Dynamics CRM 2015/2016, MS Dynamic 365 and Microsoft Power
+ Platform.
+ •
+ Good experience in Software Development Lifecycle (SDLC) using various software development methodologies
+ such as: Waterfall and Agile.
+ •
+ Good Functional Experience in Marketing, Sales, Service, Customer Service, Field Service, Loyalty and CPQ
+ •
+ Experience in customizing Dynamics 365 Customer Engagement platform.
+ •
+ Good experience in Analysis, design, development, Testing, deployment and operation of CRM software in
+ Enterprise environment
+ •
+ Proficient in developing plugins and custom workflows using Early Bound and Late Bound approaches
+ •
+ Proficiency in writing JavaScript for form level validation, record creation and getting data using AJAX/JSON
+ call using CRM web services and OData Queries.
+ •
+ Proficiency in doing customization in Microsoft Dynamics CRM such as: Entity Customization, creating and
+ managing Entity Relationships and Relationship Behaviors, Form Customization, View Customization and
+ Ribbon Customization using Ribbon Workbench and Ribbon editor.
+ •
+ Proficiency in creating, exporting and importing Managed Solution and Unmanaged Solutions both manually
+ and by building Azure DevOps CI/CD pipelines.
+ •
+ Hands on Experience with CRM Development Tools like Plugin Registration Tool, CRM SDK, XRMToolBox,
+ Visual Studio and CRM Data Migration Tool for data Migration Between the two organizations.
+ •
+ Good hands on experience in administering, installation and configuring environments like Dev, Test, SIT, UAT
+ and Production Environments.
+ •
+ Good experience in Data Migration from legacy systems, different CRM systems like Oracle, SalesLogix, SAP
+ etc. using ETL tools like SSIS, Scribe Insight, Scribe Online, Azure Synapse, Azure Data Factory and CRM Data
+ Import.
+ •
+ Experience in writing TSQL Queries, Stored Procedures, and Functions in SQL Server.
+ •
+ Good experience of creating various custom utilities, schedulers etc.
+ •
+ Good Experience in UI Testing, Unit Testing, System Testing, System Integration, Regression, Automation,
+ Performance and User Acceptance Testing.
+ •
+ Good Experience in Documentation includes Functional, Technical, Unit Test, Test plan, Traceability Matrix,
+ Defect Consolidation Log, and Defect Tracking Form and DSR
+ •
+ Experience in strategic business process modeling, traceability and quality management techniques.
+ •
+ Experience in developing and leveraging various modeling techniques for requirements elicitation (use cases,
+ wireframes (figma)/conceptual prototypes, process flow diagrams, etc.).
+ •
+ Excellent interpersonal, facilitation, oral and written communication skills.
+ Skills
+ Enterprise Technologies
+ Microsoft Dynamics 365, Power Apps, Microsoft 
+Dynamics AX 2012, Microsoft Dynamics AX 2012 
+R2, R3, Microsoft Dynamics GP
+ .NET Technologies
+ Microsoft Visual Studio, .NET framework 3.5/4.0, C#,
+ ASP.NET, ADO.NET, Web Services, Windows
+ Communication Foundation, Windows Workflow
+ Reporting Tools
+ SQL Server Reporting Services (SSRS), Power BI
+ Web Technologies
+ HTML, XML, XSLT, JavaScript, CSS, MVC 
+4.0/3.0/2.0, TypeScript
+ Database
+ MS SQL Server 2008/2012, MS Access
+ Other Tools
+ Azure Data Factory, Azure Synapse, Figma, PlayWright, 
+Document Core Pack, Oracle AIA,IBM WebSphere , 
+SSIS, Microsoft Office, Visio, VSS,Java, J2EE
+Certificates
+ Microsoft Certified: Power Platform Fundamentals
+ Microsoft Certified: Dynamics 365 Fundamentals (CRM)
+ Professional Experience
+ Sr MS Dynamics CRM Developer
+ State of Illinois (DCFS), Deloitte
+ •
+ Involved in requirements gathering, analysis, project planning and resolving.
+ 2024/01 – present
+ Springfield, IL, USA
+ •
+ Customized MS Dynamics 365 application based on the business requirement.
+ •
+ Created Organizations, Business units, Teams and their relationships. Dataverse
+ Configuration,creating Custom Entities, Custom attributes for individual business
+ units, in MS Dynamics CRM according to their business process.
+ •
+ Customized MS Dynamics CRM 365 application based on the business requirement.
+ •
+ Created Power Automate Flows for all the possible automations wherever required,
+ eliminating custom JavaScript and Plugins so that versioning issues will not arise in
+ the future.
+ •
+ Developed client Application and Internet-facing Power Pages portal. Where the
+ external users perform the business actions.
+ •
+ Worked around Azure AD and Azure AD B2C for providing access to Power Pages
+ Portal.
+ •
+ Developed client Application and Internet-facing Web app using ADX studios libraries
+ using C#, XAML and .NET development environment.
+ •
+ Major role in the development of the web application using ASP.NET MVC 4.0, C#,
+ Java script, jQuery, Bootstrap, ADO.NET and AJAX.
+ •
+ Collected existing infrastructure information including Active Directory, SQL server,
+ Reporting Server instance for implementation of MS Dynamics CRM 365 system.
+ •
+ Developed complex reports using SSRS and deployed into MS CRM.
+ •
+ Imported contacts from existing application into MS Dynamics CRM 365 using the
+ WCF service.
+ •
+ Worked with Data Analytics team closely to develop complex Power BI Reports and
+ deployed them into MS CRM.
+ •
+ Created complex power Automate flows including connectors like Adobe Sign, which
+ lets the end user enter the details requested by the business. Also created Document
+ templates with Adobe Sign expressions.
+ •
+ Created various document templates, which are used to communicate with the end
+ users.
+ •
+ Created Custom Plugins, Custom Workflow, Custom Actions, Business process,
+ •
+ Custom Forms and integrated with CRM.
+ •
+ Used CRMSDK to perform operations on CRM Entities.
+ •
+ Used SOAPUI to test the REST Web service call
+ •
+ Involved in the design and development of WinForms using C#
+ •
+ Involved in developing WCF Service using SOAP/HTTP to communicate with legacy
+ systems and also deployed web services as per business requirements.
+ •
+ Created Power BI Dashboards.
+ •
+ Experience in developing report such SQL Server Reporting Services (SSRS), SSAS,
+ MDX, Power BI, CUBES, SQL Server Integration Services(SSIS), DTS Packages and
+ Performance tuning.
+ •
+ Adding the feeds and scheduling the jobs.
+ •
+ Integrated SharePoint online and on-premise to CRM 365.
+ •
+ Implementing agile methodology. Worked with setting up organizations in DEV, QA,
+ Staging and Production Environments.
+ •
+ Deployed managed and unmanaged solutions in different Organizations.
+ •
+ Worked on supporting the Microsoft Dynamics CRM 365 production environment
+ and resolving the issues for CRM production environment
+Environment:
+ .Net 4.5, Microsoft Dynamics AX 2012 R3, ASP.Net MVC 4, Visual Studio 2015/2017
+ Ajax, JSON, SQL Server 2008/ 2012/2016, C#.Net, Win forms, HTML, Entity
+ Framework, JavaScript, JQuery, Angular JS, Bootstrap, CSS, TFS, SSRS Reports WCF,C#.
+ Sr MS Dynamics Developer
+ Board of Supervisors, Los Angeles County
+ •
+ Developed MS Dynamics 365 application based on the business requirement.
+ 2022/08 – 2023/12
+ Los Angeles,
+ United States
+ •
+ Created Custom Entities, Custom attributes for individual business units, in MS
+ Dynamics CRM according to their business process.
+ •
+ Customized MS Dynamics CRM 365 application based on the business requirement.
+ •
+ Customization of Marketing and Fund Raising module which is a Microsoft Pilot
+ module.
+ •
+ Migrated the legacy application from MS Dynamics CRM 2016 to MS Dynamics
+ 365.
+ •
+ Integration of CRM module with Oracle Fusion applications.
+ •
+ Examined their present business procedures and CRM deployment.
+ •
+ Collaborated with project management to update the client on status.
+ •
+ Project-specific standards and development oversight are offered.
+ •
+ Examined design documents that included requirements and behavior details.
+ •
+ Actively engaged in meetings for testing, deployment planning, and development.
+ •
+ Developed CRM Plug-in and Custom Workflow activities in great detail.
+ •
+ Helped set up CRM and QA training environments.
+ •
+ Worked on Dynamics 365's Field Service Automation and Project Service Automation
+ modules.
+ •
+ Provided administrative, managerial, and end user training on how to maximize their
+ CRM deployment, along with the development of strategic training materials.
+ •
+ Road maps for upcoming CRM improvements were supplied.
+ •
+ Developed whole application with the motto of Microsoft Low-Code No- Code
+ approach.
+ •
+ Employed North52 for all the configurations and Business Rules.
+ •
+ Developed various Power BI Reports and Dashboards out of the Dataverse Data for
+ the clients.
+ Environment:
+ MS Dynamics CRM, XRM Toolbox, ASP.Net MVC 4, LDAP, Azure, Postman tool,
+ SSRS, C#.Net, Ribbon Workbench, Bootstrap, C#, Power BI, WebAPI, JavaScript, AD
+ Browser, Web Resource Updater, Visual Studio 2017.
+ MS Dynamics 365 CRM Associate Developer
+ Cognizant
+ •
+ Integrated MSCRM with Messaging system at HCR via WCF services, CRM Plug-in,
+ Custom CRM Jobs.
+ 2020/01 – 2021/12
+ Hyderabad, India
+ •
+ Analysis of their current CRM implementation and business practices.
+ •
+ Worked with Project Management to provide status to the customer.
+ •
+ Development oversight and standards provided for the project.
+ •
+ Reviewed design documents detailing behaviors and requirements.
+ •
+ Actively participated in Development, Testing and Deployment Planning meetings.
+ •
+ Designing the entity model within Dataverse
+ •
+ Extensively worked on CRM Plug-in& Custom Workflow activities development.
+ •
+ Implementing Create, Read, Update, and Delete (CRUD) operations using OData.
+ •
+ Worked with setting up QA, Training CRM environments.
+ •
+ Developed strategic training materials and deliver administration, managing, and end
+ user training on how to get the most out of their CRM implementation.
+ •
+ Provided Road maps for future CRM enhancements.
+ •
+ Created branches in TFS.
+ •
+ Deployed .net applications in servers.
+•
+ Created a site for .net application.
+ •
+ Involved in design and development of integrated solutions of Microsoft Dynamics
+ •
+ CRM with the web portal using WCF services and ASP.Net. Performed administrator
+ tasks like backup, restore, maintenance of databases, creating security roles, sharing of
+ records across teams etc.
+ •
+ Developed Duplicate detection rules to prevent Duplication in Cross entities. Provided
+ necessary assistance for packaging / deployment of application into QA, Staging,
+ Production.
+ •
+ Involved in migration of the current Microsoft Dynamics CRM 2016 version to the
+ CRM 365 version.
+ Environment:
+ MS SQL Server 2012, XRM Toolkit, SQL Server Reporting Services, TFS, VS 2012, C#,
+ Plug-in, J-Script, HTML, XML, WCF Services.
+ MS Dynamics CRM Developer
+ HCL
+ •
+ Requirement gathering, analysis and project planning.
+ 2017/05 – 2019/12
+ Chennai, India
+ •
+ Created several plug-ins and workflows for enhancing the system and maintain data
+ integrity.
+ •
+ Designed Analysis tool using Angular JS, Bootstrap & embedded inside dynamics
+ CRM for the user to work with data.
+ •
+ Implemented various filters which enables the user to filter data based on user choice
+ & present the analysis
+ •
+ Ability to import the data on which analysis is performed into Dynamics CRM.
+ •
+ Worked on rules to group the people with similar skills into resource groups using a
+ service scheduler.
+ •
+ Creating SSRS reports for service module and financial data using joins and pivot
+ tables.
+ •
+ Used MS Dynamics CRM to customize system components such as forms, views,
+ entities, attributes, relationships, and entity mappings according to entities in real
+ estate domain based on some business stories.
+ •
+ Azure infrastructure enterprise level projects that design and deploy cloud
+ environments for hosting business application services
+ •
+ Designing, testing, and implementing application services migrations in both a manual
+ and automated manner
+ •
+ Working closely with client operational resources in updating their on-premise
+ practices to include cloud
+ •
+ Managed a combination of on-shore and off-shore resources Working closely with
+ application, network, and security teams to ensure requirements are reflected
+ appropriately in the Azure design.
+ •
+ Designed plug-ins to populate case-id on creation of new case for service module.
+ •
+ Migration of data from Excel source to CRM using Import wizard.
+ •
+ Created custom solution that contains entities, workflows, global option sets and
+ plugin steps. This custom solution is used to deploy in Quality and Production
+ environments.
+ •
+ Integrated with various Internal and External applications.
+ •
+ Create blueprints for hybrid cloud infrastructures centered around Azure cloud
+ •
+ Worked on Plugins, Parallel Workflows, Business rules and Business Process flows to
+ automate the business processes.
+ •
+ Used TFS for the source & document version control
+ Environment:
+ MS Dynamics CRM, XRM Toolbox, LDAP, Azure, Postman tool, SSRS, Ribbon
+ Workbench, Bootstrap, Visual Studio 2017, C#, Power BI, WebAPI, JavaScript, AD
+ Browser, Web Resource Updater.
+MS Dynamics CRM Developer
+ ARi Global Solutioins
+ •
+ Developed configuration workflows for multiple product lines
+ •
+ Responsible for timely testing and bug fixing.
+ •
+ Responsible for designing, development and support services of Microsoft Dynamics
+ CRM Application in Sales and Service Modules.
+ •
+ Created several plug-ins and workflows for enhancing the system and maintain data
+ integrity.
+ •
+ Participated in application design sessions and code reviews to ensure accuracy
+ towards business requirements and development guidelines.
+ •
+ Troubleshooting and coordinated deployment between environments with other teams
+ Provided technical guidance to the team and participated in several sessions of code
+ review.
+ •
+ Participated in the development of system/design documentation to facilitate
+ knowledge transfer and increase application maintainability.
+ •
+ Used various report items like tables, sub report and charts to develop the reports in
+ SSRS and Power BI.
+ •
+ Written Test Cases documents after analyzing Requirements and Use Cases.
+ •
+ Prepared Test Data as per the test cases documented in the test plan.
+ •
+ Developed Defect Management reports and involved in Defect Triage meeting daily.
+ •
+ Performed Loan origination Web Services testing.
+ •
+ Used SOAP UI tool for Web Services testing.
+ Environment:
+ MS Dynamics CRM, Visual Studio 2015, .Net Framework 4.6, C#,Plugin Registration
+ Tool,CRM SDK, XRMToolBox,Html, JavaScript, Microsoft SQL Server 2008/2012,
+ Kingsway soft, Azure, Web services, Web API, TFS, Power BI ,SharePoint.
+ Education
+ 2015/07 – 2017/04
+ Chennai, India
+ Master of Science in Information Systems and Technologies
+ University of North texas
+ 2022/01 – 2022/12
+ Denton, TX,
+ United States
