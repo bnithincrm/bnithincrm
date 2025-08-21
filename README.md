@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bnithincrm
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning js
+
 
 
 <!---
